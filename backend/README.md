@@ -411,4 +411,5 @@ python test_flaskr.py
 
 
 # Author AREEG FAHAD  
-MASTER in Newtwork Al-Nahrain unversity
+M.S in Newtwork Engineering Al-Nahrain University
+B.A in Network Engineering Al-Iraqi University 
